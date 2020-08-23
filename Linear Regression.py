@@ -46,6 +46,8 @@ predictions = linear.predict(x_test)               #for predicting
 for x in range(len(predictions)):                  #how many times to run the data
     print(predictions[x], x_test[x], y_test[x])
 
+
+# Drawing and plotting model
 p = "studytime"
 style.use("ggplot")
 pyplot.scatter(data[p], data["G3"])
