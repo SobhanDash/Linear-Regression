@@ -3,4 +3,4 @@ A machine learning concept used for predicting a certain attribute by training a
 
 "student-mat.csv" is the data set the model has been trained on and being tested on.
 
-"studentgrades.pickle" is the pickle file where the model only better itself rather than working on the same set of data
+"studentgrades.pickle" is the pickle file where the model only better itself rather than working on the same set of data.
